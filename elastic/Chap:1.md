@@ -7,3 +7,4 @@ Apache Lucene.
  - Để lập chỉ mục và tìm kiếm dữ liệu, cũng như để quản lý cài đặt sử dụng JSON qua API HTTP và nhận lại câu trả lời JSON.
  - Bạn cũng có thể xem Elasticsearch như một kho dữ liệu NO-SQL với tính năng tìm kiếm theo thời gian thực
  - Elasticsearch tự động chia dữ liệu thành các phần, các phần cũng được sao chép lại,tăng khả năng on toàn dữ liệu khị có lỗi xảy ra
+ ### Chương 2:
